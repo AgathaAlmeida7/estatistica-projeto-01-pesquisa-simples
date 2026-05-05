@@ -1,0 +1,48 @@
+# Documentando as variaveis tecnicas
+
+# DICIONARIO DE DADOS
+
+------------------------
+# VARIAVEL01
+- IDADE 
+# DESCRICAO01
+- IDADE DO ESTUDANTE EM ANOS
+# TIPO01
+- NUMERICA
+# CLASSIFICAÇÃO01
+- QUANTITATIVA DISCRETA
+-------------------------
+
+------------------------
+# VARIAVEL02
+- ALTURA
+# DESCRICAO02
+- ALTURA DO ESTUDANTE EM METROS
+# TIPO02
+- NUMERICA
+# CLASSIFICACAO02
+- QUANTITATIVA CONTINUA
+-------------------------
+
+
+-------------------------
+# VARIAVEL03
+- CURSO
+# DESCRICAO03
+- CURSO DO ESTUDANTE
+# TIPO03
+- CATEGORICA
+# CLASSIFICACAO03
+- QUALITATIVA NOMINAL
+-------------------------
+
+-------------------------
+# VARIAVEL04
+- TEMPO_ESTUDO_DIA
+# DESCRICAO04
+- TEMPO MEDIO DE ESTUDO POR DIA(HORAS)
+# TIPO04
+- NUMERICA
+# CLASSIFICACAO04
+- QUANTITATIVA CONTINUA
+----------------------------
